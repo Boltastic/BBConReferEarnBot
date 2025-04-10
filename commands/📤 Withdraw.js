@@ -15,7 +15,7 @@ CMD*/
 
 var maxwith = parseFloat(100000000000000000000); // Maximum Withdrawal Amount
 var minwith = parseFloat(10); // Minimum Withdrawal Amount
-var channel = "-1002625523657"; // Admin Channel ID
+var channel = "-1002511481346"; // Admin Channel ID
 var stat = Bot.getProperty("" + user.telegramid + "?Ban");
 
 if (stat == "ban") {
