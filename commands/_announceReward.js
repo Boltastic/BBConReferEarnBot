@@ -29,7 +29,7 @@ if (!amount || !wallet) {
 var publicChannel = Bot.getProperty("publicChannel"); 
 
 Api.sendMessage({
-  chat_id: -1002625523657,
+  chat_id: -1002511481346,
   text:
     "🎉 *New Withdrawl Approved!* 🎉\n\n" +
     "🔹 *User:* [" + userName + "](tg://user?id=" + userId + ")\n" +
